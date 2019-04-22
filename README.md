@@ -95,7 +95,9 @@ Wireframe 2
   
 **3. Bonus Points: (Optional)**
 
-Implement a filter by name functionality on the first screen that automatically filters the results while typing, only showing the rows that satisfy the criteria entered by the user.
+A) Implement a filter by name functionality on the first screen that automatically filters the results while typing, only showing the rows that satisfy the criteria entered by the user.
+
+B) Include test coverage for the core features.
 
 
 
